@@ -1,0 +1,76 @@
+body{
+
+color:black;
+background-color:#A9F5A9;
+background-image: url(https://s-media-cache-ak0.pinimg.com/736x/97/17/38/971738f5b400a67206d93fc7736d5b51--coeur-dalene-patios.jpg);
+background-repeat:;
+max-width: 100%;
+height: auto; 
+background-size:cover;
+
+}
+
+#navcol	{
+	width:130px;
+	float:left;
+}
+
+table#tableau {
+  font-family: arial;
+  font-size: 11px;
+  color: #333333;
+  border-width: 1px;
+  border-color: black;
+  border-collapse: collapse;
+  text-align: center;
+  width:80px; 
+  height:0px;
+}
+
+table#tableau th {
+  border-width: 1px;
+  padding: 8px;
+  border-style: solid;
+  border-color: black;
+  background-color: ;
+  width:80px; 
+  height:60px;
+}
+table#tableau td {
+  border-width: 1px;
+  padding: 8px;
+  border-style: solid;
+  border-color: black;
+  background-color: ;
+  width:80px; 
+  height:60px;
+}
+
+#titre{ 
+font-style : italic;
+text-align: center;
+ }
+
+#titre2{
+
+ border-bottom:1px dashed #8B4513;
+ font color=withe; 
+}
+
+
+#des{ 
+background : white
+ border-style: solid;
+
+}
+
+#proj{
+border-bottom:1px dashed #8B4513;
+ font color=withe; 	
+}
+#liens{
+	text-align: center;
+	background : black; 
+}
+        
+    
